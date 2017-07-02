@@ -13,7 +13,7 @@ body {
   color: white;
 }
 
-.menu {
+a {
   font-size: 18px;
   color: white;
 }
@@ -44,5 +44,6 @@ span {
 }
 
 footer {
+  text-align:
   background-color: dimgray;
 }
