@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  background-image: url(./images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 #home {
@@ -34,16 +34,16 @@ p {
 
 .header h3 {
   font-size: 23px;
-  font-weight: bold
+  font-weight: bold;
   color: white;
 }
 
-span {
-  font-size: 11px
-  color: white;
-}
-
-footer {
-  text-align:
+#footer {
+  text-align: left;
   background-color: dimgray;
+}
+
+#footer p {
+  font-size: 11px;
+  color: white;
 }
